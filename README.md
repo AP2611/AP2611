@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hey, I'm Arjun Panse
-### Full-Stack Developer · AI/ML Engineer · Software Developer
+### Full-Stack Developer · AI/ML Engineer · Security Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-panse-b4b43a239/)
 [![Medium](https://img.shields.io/badge/Medium-Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@arjunpanse22)
@@ -40,7 +40,7 @@
 | Metric | Value |
 |--------|-------|
 | 📦 Public Repos | 10+ |
-| 🌍 Location | Pune, India |
+| 🌍 Location | Nagpur, India |
 | ✍️ Writing | DSA · Cybersecurity · Software Dev |
 
 ---
@@ -49,7 +49,7 @@
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=ap2611&theme=darkhub&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=ap2611&theme=darkhub&no-frame=false&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
